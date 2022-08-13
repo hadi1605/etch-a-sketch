@@ -1,0 +1,20 @@
+.grid-container{
+    height: 500px;
+    width: 500px;
+    display: grid;
+    border: 3px solid black;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    background-color: antiquewhite;
+}
+
+.button-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
